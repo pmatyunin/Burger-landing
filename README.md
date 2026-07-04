@@ -2,6 +2,14 @@
 
 Адаптивный лендинг сайта фастфуда, разработанный на чистом HTML и CSS.
 
+# Burger Landing
+
+![Preview](screens/preview1.png)
+![Preview](screens/preview.png)
+![Preview](screens/preview2.png)
+
+
+
 ## 📌 О проекте
 Одностраничный сайт ресторана с секциями:
 - Header (навигация + кнопка заказа)
